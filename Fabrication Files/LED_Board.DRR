@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LED_Board.PcbDoc   1/8/2016  12:20:23 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LED_Board.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        19mil (0.4826mm)         Round          14               0.67 Inch (17.14 mm)
+T2        39.37mil (1mm)           Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            15               0.67 Inch (17.14 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
