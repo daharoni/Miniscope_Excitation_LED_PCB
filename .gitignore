@@ -45,3 +45,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Eagle craps
+*.b#*
+*.s#*
+*.exe
+*.zip
+*.l#*
+*.scr
+*.gpi
+*.dri
+
+# Altium craps
+History
+*.PrjPCBStructure
+Project Outputs for *
+Project Logs for *
+ProjectOutputs/
+__Previews
+*.$$$
+
